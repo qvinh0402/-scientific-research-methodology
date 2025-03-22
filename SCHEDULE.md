@@ -4,20 +4,20 @@
 ### Nội dung gợi ý:
 
 ```md
-# 📅 Kế Hoạch Dự Án
+#     Kế Hoạch Dự Án
 
 ## 1️⃣ Thông tin dự án
 - **Tên đề tài**: Face Recognition Using Convolutional Neural Networks
 - **Thành viên**:
-  - Lê Quang Vinh (Email: a@example.com)
-  - Vũ Thị Thanh Vân (Email: b@example.com)
+  - Lê Quang Vinh (Email: lequangvinh.work@gmail.com)
+  - Vũ Thị Thanh Vân (Email: thanhvan21042002@gmail.com)
 
 ## 2️⃣ Kế hoạch công việc
 | Thời gian  | Công việc | Trạng thái |
 |------------|----------|------------|
-| 01/04/2024 | Khởi động dự án, tạo GitHub | ✅ Hoàn thành |
-| 05/04/2024 | Thiết kế giao diện Tkinter | 🔄 Đang làm |
-| 10/04/2024 | Hoàn thiện xử lý dữ liệu SQLite | ⏳ Chưa bắt đầu |
+| 10/03/2025 | Khởi động dự án, tạo GitHub | ✅ Hoàn thành |
+|  |  |  |
+|  |  |  |
 
 ## 3️⃣ Liên kết tài liệu
 - [📄 Kế hoạch chi tiết (schedule.xlsx)](schedule.xlsx)
