@@ -13,14 +13,15 @@
   - Vũ Thị Thanh Vân (Email: thanhvan21042002@gmail.com)
 
 ## 2️⃣ Kế hoạch công việc
-| Thời gian  | Công việc | Trạng thái |
-|------------|-----------|------------|
-| 10/03/2025 | Khởi động dự án, tạo GitHub | ✅ Hoàn thành |
-| 10/03/2025 | Lựa chọn đề tài | ✅ Hoàn thành |
-| 26/03/2025 | Khảo sát đề tài                       | Hoàn thành |
-| 26/03/2025 | Tiến hành khảo sát dữ liệu cho đề tài | Hoàn thành |
-| 26/03/2025 | File đề cương chi tiết                | Hoàn thành |
-| 30/03/2025 |  | Hoàn thành |
+| Thời gian  | Công việc                             | Trạng thái |
+|------------|---------------------------------------|------------|
+| 10/03/2025 | Khởi động dự án, tạo GitHub           | ✅ Hoàn thành |
+| 10/03/2025 | Lựa chọn đề tài                       | ✅ Hoàn thành |
+| 26/03/2025 | Khảo sát đề tài                       | ✅ Hoàn thành |
+| 26/03/2025 | Tiến hành khảo sát dữ liệu cho đề tài | ✅ Hoàn thành |
+| 26/03/2025 | File đề cương chi tiết lần 1          | ✅ Hoàn thành |
+| 15/04/2025 | Phân tích luận văn về đề tài đã chọn  | ✅ Hoàn thành |
+
 
 
 
