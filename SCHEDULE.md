@@ -20,7 +20,6 @@
 | 26/03/2025 | Khảo sát đề tài                       | ✅ Hoàn thành |
 | 26/03/2025 | Tiến hành khảo sát dữ liệu cho đề tài | ✅ Hoàn thành |
 | 26/03/2025 | File đề cương chi tiết lần 1          | ✅ Hoàn thành |
-| 15/04/2025 | Phân tích luận văn về đề tài đã chọn  | ✅ Hoàn thành |
 
 
 
