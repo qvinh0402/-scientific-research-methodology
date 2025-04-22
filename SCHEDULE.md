@@ -19,7 +19,8 @@
 | 10/03/2025 | Lựa chọn đề tài                       | ✅ Hoàn thành |
 | 26/03/2025 | Khảo sát đề tài                       | ✅ Hoàn thành |
 | 26/03/2025 | Tiến hành khảo sát dữ liệu cho đề tài | ✅ Hoàn thành |
-| 26/03/2025 | File đề cương chi tiết lần 1          | ✅ Hoàn thành |
+| 10/03/2025 | File đề cương chi tiết lần 1          | ✅ Hoàn thành |
+
 
 
 
