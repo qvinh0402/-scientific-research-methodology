@@ -35,7 +35,5 @@
 - **Cả nhóm**: Kiểm thử, tài liệu báo cáo.
 
 ## 5️⃣ Quy tắc làm việc nhóm
-- Mỗi thành viên **push code lên nhánh riêng**, sau đó merge vào `main`.
-- Sử dụng **issue và pull request** để theo dõi lỗi và cập nhật.
 - Họp nhóm hàng tuần vào **thứ 6 lúc 19h** trên Google Meet.
 
