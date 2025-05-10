@@ -30,9 +30,9 @@
 - [📄 Kế hoạch chi tiết (schedule.xlsx)](schedule.xlsx)
 
 ## 4️⃣ Phân công công việc nhóm
-- Lê Quang Vinh:
+- Lê Quang Vinh
 - Vũ Thị Thanh Vân
-- **Cả nhóm**: Kiểm thử, tài liệu báo cáo.
+- **Cả nhóm**: Kiểm tra, theo dõi, cập nhật bài báo nghiên cứu và làm báo cáo.
 
 ## 5️⃣ Quy tắc làm việc nhóm
 - Họp nhóm hàng tuần vào **thứ 6 lúc 19h** trên Google Meet.
