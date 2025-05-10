@@ -1,4 +1,4 @@
-# -Face Recognition Using Convolutional Neural Networks
+# Face Recognition Using Convolutional Neural Networks
 
 ## Giới thiệu
 Dự án "Face Recognition Using Convolutional Neural Networks" nhằm phát triển hệ thống nhận diện khuôn mặt dựa trên mô hình CNN. Hệ thống có thể nhận diện khuôn mặt trong hình ảnh và đối chiếu với dữ liệu khuôn mặt lưu trước đó.
