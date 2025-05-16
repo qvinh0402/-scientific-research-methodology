@@ -23,6 +23,8 @@ Các ảnh trong LFW được xử lý bằng kỹ thuật deep funneling (căn 
 
 Tập dữ liệu được chia thành 3 phần: 70% cho huấn luyện, 5% cho validation, 25% cho testing.
 
+Vì tập dữ liệu khá lớn khoảng hơn 100 MB nên nhóm chúng tôi sẽ chia sẻ thông qua drive sau : https://drive.google.com/drive/folders/1lw6yyC9m1p26f0TQI0a7VZGQTAq9XW7I?usp=drive_link  
+
 # Mục tiêu nghiên cứu
 
 Mục tiêu chính là sử dụng mạng CNN đã được huấn luyện sẵn (Google’s Inception V3) để thực hiện nhận diện khuôn mặt trên một tập dữ liệu mới (LFW) với số lượng lớp hạn chế (10 người).
