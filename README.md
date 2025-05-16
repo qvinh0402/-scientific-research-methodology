@@ -1,9 +1,9 @@
-# Face Recognition Using Convolutional Neural Networks
+## Face Recognition Using Convolutional Neural Networks
 
-## Giới thiệu
+# Giới thiệu
 Dự án "Face Recognition Using Convolutional Neural Networks" nhằm phát triển hệ thống nhận diện khuôn mặt dựa trên mô hình CNN. Hệ thống có thể nhận diện khuôn mặt trong hình ảnh và đối chiếu với dữ liệu khuôn mặt lưu trước đó.
 
-## Tính năng
+# Tính năng
 
 Nhận diện khuôn mặt trong hình ảnh.
 
@@ -13,9 +13,9 @@ Huấn luyện mô hình CNN dựa trên dữ liệu khuôn mặt.
 
 Nhận dạng khuôn mặt mới không có trong dữ liệu.
 
-Hỗ trợ giao diện người dùng đơn giản (tuùy chọn).
+Hỗ trợ giao diện người dùng đơn giản (tùy chọn).
 
-## Cài đặt
+# Cài đặt
 
 Cài đặt Python 3.x
 
@@ -23,17 +23,17 @@ Tạo môi trường ảo:
 
 Cài đặt các thư viện yêu cầu:
 
-## Cách sử dụng
+# Cách sử dụng
 
 Chạy script huấn luyện mô hình:
 
 Chạy chương trình nhận diện khuôn mặt:
 
-## Dữ liệu
+# Dữ liệu
 
 Dữ liệu tự thu thập: Có thể sử dụng hình ảnh vào cơ sở dữ liệu.
 
-## Công nghệ sử dụng
+# Công nghệ sử dụng
 
 Python: Ngôn ngữ lập trình chính.
 
