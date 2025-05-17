@@ -27,7 +27,7 @@ Vì tập dữ liệu khá lớn khoảng hơn 100 MB nên nhóm chúng tôi s�
 
 Mục tiêu chính là sử dụng mạng CNN đã được huấn luyện sẵn (Google’s Inception V3) để thực hiện nhận diện khuôn mặt trên một tập dữ liệu mới (LFW) với số lượng lớp hạn chế (10 người).
 
-Thay vì huấn luyện lại toàn bộ mạng sâu (vốn rất tốn tài nguyên), tác giả chỉ huấn luyện lại các lớp trên cùng (top layers) để thích ứng với nhiệm vụ nhận diện khuôn mặt cụ thể.
+Thay vì huấn luyện lại toàn bộ mạng sâu (vốn rất tốn tài nguyên), chúng tôi chỉ huấn luyện lại các lớp trên cùng (top layers) để thích ứng với nhiệm vụ nhận diện khuôn mặt cụ thể.
 
 Mục tiêu là chứng minh khả năng chuyển giao học (transfer learning) của mạng Inception V3 trong việc nhận diện khuôn mặt, đồng thời phân tích hiệu quả của mô hình trên tập dữ liệu thực tế.
 
