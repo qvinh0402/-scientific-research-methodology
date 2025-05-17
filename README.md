@@ -21,8 +21,6 @@ Labeled Faces in the Wild (LFW): Đây là tập dữ liệu chính được s�
 
 Các ảnh trong LFW được xử lý bằng kỹ thuật deep funneling (căn chỉnh ảnh khuôn mặt) nhằm giảm sự biến đổi trong cùng một lớp (cùng một người) để mạng học được sự khác biệt giữa các lớp tốt hơn.
 
-Tập dữ liệu được chia thành 3 phần: 70% cho huấn luyện, 5% cho validation, 25% cho testing.
-
 Vì tập dữ liệu khá lớn khoảng hơn 100 MB nên nhóm chúng tôi sẽ chia sẻ thông qua drive sau : https://drive.google.com/drive/folders/1lw6yyC9m1p26f0TQI0a7VZGQTAq9XW7I?usp=drive_link  
 
 # Mục tiêu nghiên cứu
