@@ -1,0 +1,1 @@
+GG Colab để sử dụng free GPU: https://colab.research.google.com/drive/1uPemAyGlM_wIqj5n4Sm-ybCF4KCWsvVU?usp=sharing
